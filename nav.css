@@ -1,0 +1,403 @@
+
+
+/*-------TOP ROW GENERAL-------*/
+#nav-a {
+    margin: 0;
+    padding: 0;
+    width: 1280px;
+    height: 40px;
+    background-image: url(img/1.gif);
+}
+
+#nav-a li {
+    display: inline;
+    height: 40px;
+    text-align: center;
+    float: left;
+    line-height: 40px;
+}
+
+#nav-a a {
+    display: block;
+    height: 40px;
+}
+
+#nav-a a:hover{
+    background-image: url(img/1.gif);
+    background-repeat:no-repeat;
+}
+
+#nav-a span {
+    display: none;
+}
+/*-------GENERAL-------*/
+
+
+
+/*-------NAV TOP ROW-------*/
+#nav-left {
+    width: 732px;
+}
+
+#nav-livechat {
+    width: 121px;
+}
+
+#nav-a  a#nav-livechat:hover {
+    background-position: -732px bottom;
+}
+
+#nav-email {
+    width: 71px;
+}
+
+#nav-a  a#nav-email:hover {
+    background-position: -853px bottom;
+}
+
+#nav-phonenumber {
+    width: 195px;
+}
+
+#nav-a  a#nav-phonenumber:hover {
+    background-position: -924px bottom;
+}
+
+#nav-cart {
+    width: 161px;
+}
+
+#nav-a  a#nav-cart:hover {
+    background-position: -1119px bottom;
+}
+
+/*-------NAV TOP ROW-------*/
+
+
+
+/*-------NAV MAIN GENERAL-------*/
+
+#nav-b {
+    margin: 0;
+    padding: 0;
+    width: 1280px;
+    height: 60px;
+    background-image: url(img/2.gif);
+}
+
+#nav-b li {
+    display: inline;
+    height: 60px;
+    text-align: center;
+    float: left;
+    line-height: 60px;
+}
+
+#nav-b a {
+    display: block;
+    height: 60px;
+}
+
+#nav-b a:hover{
+    background-image: url(img/2.gif);
+    background-repeat:no-repeat;
+}
+
+#nav-b span {
+    display: none;
+}
+
+/*-------NAV MAIN GENERAL-------*/
+
+
+/*-------NAV MAIN ROW-------*/
+#main-left {
+    width: 320px;
+}
+
+#main-aboutUs {
+    width: 126px;
+}
+
+#nav-b a#main-aboutUs:hover {
+    background-position: -320px ;
+}
+
+#main-play {
+    width: 158px;
+}
+
+#nav-b a#main-play:hover {
+    background-position: -446px bottom;
+}
+
+#main-ourStores {
+    width: 156px;
+}
+
+#nav-b a#main-ourStores:hover {
+    background-position: -602px ;
+}
+
+#main-myFavorites {
+    width: 166px;
+}
+
+#nav-b a#main-myFavorites:hover {
+    background-position: -759px bottom;
+}
+
+#main-giftRegistry {
+    width: 165px;
+}
+
+#nav-b a#main-giftRegistry:hover {
+    background-position: -926px;
+}
+
+#main-myAccount {
+    width: 189px;
+}
+
+#nav-b a#main-myAccount:hover {
+    background-position: -1091px bottom;
+}
+
+/*-------NAV MAIN ROW-------*/
+
+
+/*-------NAV SEARCH GENERAL-------*/
+
+#nav-c {
+    margin: 0;
+    padding: 0;
+    width: 1280px;
+    height: 66px;
+    background-image: url(img/3.gif);
+}
+
+#nav-c li {
+    display: inline;
+    height: 66px;
+    text-align: center;
+    float: left;
+    line-height: 66px;
+}
+
+#nav-c a {
+    display: block;
+    height: 66px;
+}
+
+#nav-c a:hover{
+    background-image: url(img/3.gif);
+    background-repeat:no-repeat;
+}
+
+#nav-c span {
+    display: none;
+}
+
+/*-------NAV SEARCH GENERAL-------*/
+
+
+/*-------NAV SEARCH ROW-------*/
+
+#search-left {
+    width: 280px;
+}
+
+#search-fun {
+    width: 136px;
+}
+
+#nav-c a#search-fun:hover {
+    background-position: -280px bottom;
+}
+
+#search {
+    width: 405px;
+}
+
+#nav-c a#search:hover {
+    background-position: -416px bottom;
+}
+
+#search-bot {
+    width: 219px;
+}
+
+#nav-c a#search-bot:hover {
+    background-position: -821px bottom;
+}
+
+#search-invented {
+    width: 240px;
+}
+
+#nav-c a#search-invented:hover {
+    background-position: -1040px bottom;
+}
+
+/*-------NAV SEARCH ROW-------*/
+
+
+/*-------NAV CATEGORY GENERAL-------*/
+
+#nav-d {
+    margin: 0;
+    padding: 0;
+    width: 1280px;
+    height: 46px;
+    background-image: url(img/4.gif);
+}
+
+#nav-d li {
+    display: inline;
+    height: 46px;
+    text-align: center;
+    float: left;
+    line-height: 46px;
+}
+
+#nav-d a {
+    display: block;
+    height: 46px;
+}
+
+#nav-d a:hover{
+    background-image: url(img/4.gif);
+    background-repeat:no-repeat;
+}
+
+#nav-d span {
+    display: none;
+}
+
+/*-------NAV CATEGORY GENERAL-------*/
+
+
+/*-------NAV CATEGORY ROW-------*/
+
+#cat-shopByAge {
+    width: 167px;
+}
+
+#nav-d a#cat-shopByAge:hover {
+    background-position: 0px bottom;
+}
+
+#cat-bestSellers {
+    width: 169px;
+}
+
+#nav-d a#cat-bestSellers:hover {
+    background-position: -167px bottom;
+}
+
+#cat-newReleases {
+    width: 174px;
+}
+
+#nav-d a#cat-newReleases:hover {
+    background-position: -336px bottom;
+}
+
+#cat-categories {
+    width: 153px;
+}
+
+#nav-d a#cat-categories:hover {
+    background-position: -510px bottom;
+}
+
+#cat-brands {
+    width: 118px;
+}
+
+#nav-d a#cat-brands:hover {
+    background-position: -663px bottom;
+}
+
+#cat-interests {
+    width: 140px;
+}
+
+#nav-d a#cat-interests:hover {
+    background-position: -781px bottom;
+}
+
+#cat-amMade {
+    width: 193px;
+}
+
+#nav-d a#cat-amMade:hover {
+    background-position: -921px bottom;
+}
+
+
+#cat-nameStore {
+    width: 166px;
+}
+
+#nav-d a#cat-nameStore:hover {
+    background-position: -1114px bottom;
+}
+
+/*-------NAV CATEGORY ROW-------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
