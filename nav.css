@@ -1,4 +1,9 @@
-
+body {
+    margin: 0 auto;
+    width: 1280px;
+    background-image: url(img/bckd.gif);
+    background-repeat: no-repeat;
+}
 
 /*-------TOP ROW GENERAL-------*/
 #nav-a {
@@ -225,6 +230,8 @@
 
 #search-bot {
     width: 219px;
+    
+    
 }
 
 #nav-c a#search-bot:hover {
@@ -250,6 +257,8 @@
     width: 1280px;
     height: 46px;
     background-image: url(img/4.gif);
+    
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 #nav-d li {
@@ -345,6 +354,62 @@
 }
 
 /*-------NAV CATEGORY ROW-------*/
+
+
+/*-------NAV 3.99 GENERAL-------*/
+
+#nav-e {
+    margin: 0;
+    padding: 0;
+    width: 1280px;
+    height: 46px;
+    background-image: url(img/5.gif);
+}
+
+#nav-e li {
+    display: inline;
+    height: 46px;
+    text-align: center;
+    float: left;
+    line-height: 46px;
+}
+
+#nav-e a {
+    display: block;
+    height: 46px;
+}
+
+#nav-e a:hover{
+    background-image: url(img/5.gif);
+    background-repeat:no-repeat;
+}
+
+#nav-e span {
+    display: none;
+}
+
+/*-------NAV 3.99 GENERAL-------*/
+
+
+/*-------NAV 3.99 ROW-------*/
+
+#flateRate-left {
+    width: 843px;
+}
+
+#flateRate {
+    width: 437px;
+   
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#nav-e a#flateRate:hover {
+    background-position: -843px bottom;
+    
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+/*-------NAV 3.99 ROW-------*/
 
 
 
